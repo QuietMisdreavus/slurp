@@ -33,7 +33,7 @@ To use this crate in your project, add the following to your Cargo.toml:
 
 ```toml
 [dependencies]
-slurp = "1.0.0"
+slurp = "1.0.1"
 ```
 
 ...and the following in your crate root:

@@ -7,4 +7,8 @@ categories = ["filesystem"]
 license = "Unlicense"
 readme = "README.md"
 
+[badges]
+travis-ci = { repository = "QuietMisdreavus/slurp" }
+appveyor = { repository = "QuietMisdreavus/slurp" }
+
 [dependencies]

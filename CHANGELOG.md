@@ -1,5 +1,9 @@
 # Changelog for `slurp`
 
+## Pending
+### Added
+- `write_all_*` and `append_all_*` functions
+
 ## 1.0.1 - 2017-10-06
 
 Quick update to add the documentation link to the crate metadata.

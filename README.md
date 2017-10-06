@@ -1,6 +1,6 @@
 # slurp
 
-some little helper functions to load files without the boilerplate
+some little helper functions to load files without the boilerplate [![Build Status](https://travis-ci.org/QuietMisdreavus/slurp.svg?branch=master)](https://travis-ci.org/QuietMisdreavus/slurp) [![Build status](https://ci.appveyor.com/api/projects/status/rf0xehtwonwvw0qy/branch/master?svg=true)](https://ci.appveyor.com/project/QuietMisdreavus/slurp/branch/master)
 
 `slurp` exists to solve a very particular problem. If you're trying to load a file from disk,
 there's some boilerplate code that you need to write up to handle the `Read` trait effectively:

@@ -4,5 +4,6 @@ version = "1.0.0"
 authors = ["QuietMisdreavus <grey@quietmisdreavus.net>"]
 categories = ["filesystem"]
 license = "Unlicense"
+readme = "README.md"
 
 [dependencies]

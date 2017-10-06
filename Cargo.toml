@@ -1,9 +1,10 @@
 [package]
 name = "slurp"
 description = "Small wrapper methods for loading files"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["QuietMisdreavus <grey@quietmisdreavus.net>"]
 repository = "https://github.com/QuietMisdreavus/slurp"
+documentation = "https://docs.rs/slurp"
 categories = ["filesystem"]
 license = "Unlicense"
 readme = "README.md"
